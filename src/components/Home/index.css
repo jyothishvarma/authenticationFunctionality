@@ -1,0 +1,15 @@
+/* Write your CSS code here */
+/* Write your CSS code here */
+.page-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 30px;
+}
+
+.home-head {
+  font-family: roboto;
+  font-weight: bold;
+  font-size: 34px;
+  color: #000000;
+}
